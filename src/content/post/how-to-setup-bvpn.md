@@ -12,9 +12,9 @@ Follow this step-by-step guide to install and connect to **BVPN** so you can acc
 
 ---
 
-## 📥 Download for Windows
+## 📥 Download the installer
 
-- 👉 [Download the installer](https://bvpn.bilibili.com/com/setup.html?4) for your environment (Windows, macOS, Android, iOS).
+- 👉 Download the installer for [Windows](https://bvpn.bilibili.com/com/setup.html?4) / [MacOS](https://bvpn.bilibili.com/com/EasyConnect.dmg) / [android](http://bvpn.bilibili.com/com/EasyConnectPhone.apk) / [iOS](https://apps.apple.com/us/app/easyconnect/id440460214) Select based on your environment (Windows, macOS, Android, iOS).
 - 💾 Run the installer and **follow the instructions** until the setup is completed.
 - ✅ Once installed, open the application.
 ![My Screenshot](../../assets/images/vpn/1.jpg)
