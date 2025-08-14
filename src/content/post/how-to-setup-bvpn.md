@@ -4,7 +4,6 @@ description: "Step-by-step guide for installing and using BVPN to access the int
 publishDate: "2025-10-8"
 author: "Arif"
 tags: ["vpn", "windows", "bilibili", "guide"]
-layout: "../../layouts/MarkdownPostLayout.astro"
 ---
 
 # 🚀 How to Set Up BVPN for Windows
