@@ -1,7 +1,7 @@
 ---
 title: "How to Request Zoom Access"
 description: "Step-by-step guide to request Zoom access via the company approval system."
-publishDate: "2025-10-8"
+publishDate: "2025-8-10"
 author: "Arif"
 tags: [Zoom, Request, Guide]
 ---
